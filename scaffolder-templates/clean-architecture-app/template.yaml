@@ -2,7 +2,7 @@ apiVersion: scaffolder.backstage.io/v1beta3
 # https://backstage.io/docs/features/software-catalog/descriptor-format#kind-template
 kind: Template
 metadata:
-  name: scaffold-bancolombia-java
+  name: clean-architecture-java
   title: Clean Architecture Java Template
   description: Template for the scaffolder that creates a clean architecture project java
   tags:
