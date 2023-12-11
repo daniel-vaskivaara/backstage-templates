@@ -9,7 +9,7 @@ metadata:
     - recommended
     - java
 spec:
-  owner: user:guest
+  owner: daniel.vaskivaara@eficode.com
   type: service
 
   # These parameters are used to generate the input form in the frontend, and are
