@@ -1,4 +1,4 @@
-site_name: ''
+site_name: 'clean-architecture-java'
 
 plugins:
   - techdocs-core

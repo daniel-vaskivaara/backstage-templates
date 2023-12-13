@@ -3,8 +3,8 @@ apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
   name: clean-architecture-java
-  title: Clean Architecture Java Template
-  description: Template for the scaffolder that creates a clean architecture project java
+  title: Clean Architecture - Java
+  description: Template for the scaffolder that creates a clean architecture project using Java
   tags:
     - recommended
     - java
