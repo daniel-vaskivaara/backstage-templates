@@ -1,0 +1,8 @@
+site_name: ''
+
+plugins:
+  - techdocs-core
+
+markdown_extensions:
+ - markdown_inline_mermaid
+ - mkdocs_graphviz

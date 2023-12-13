@@ -8,6 +8,8 @@ metadata:
   tags:
     - recommended
     - java
+  annotations:
+    backstage.io/techdocs-ref: dir:.
 spec:
   owner: daniel.vaskivaara@eficode.com
   type: service
@@ -31,7 +33,7 @@ spec:
           ui:options:
             rows: 5
         package:
-          title: co.com.bancolombia
+          title: co.com.acme
           type: string
           description: You can specify the main or default package of your project
           ui:autofocus: true
