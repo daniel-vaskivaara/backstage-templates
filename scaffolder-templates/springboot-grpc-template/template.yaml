@@ -8,6 +8,8 @@ metadata:
     - recommended
     - java
     - grpc
+  annotations:
+    backstage.io/techdocs-ref: dir:.
 spec:
   owner: service@example.com
   type: service

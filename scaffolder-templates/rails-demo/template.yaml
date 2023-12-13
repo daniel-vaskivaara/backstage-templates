@@ -4,6 +4,8 @@ metadata:
   name: rails-demo
   title: Rails template
   description: scaffolder Rails app
+  annotations:
+    backstage.io/techdocs-ref: dir:.
 spec:
   owner: backstage/techdocs-core
   type: service

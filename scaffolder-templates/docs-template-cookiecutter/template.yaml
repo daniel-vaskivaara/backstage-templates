@@ -8,6 +8,8 @@ metadata:
     - techdocs
     - mkdocs
     - cookiecutter
+  annotations:
+    backstage.io/techdocs-ref: dir:.
 spec:
   owner: backstage/techdocs-core
   type: documentation

@@ -4,6 +4,8 @@ metadata:
   name: pull-request
   title: Pull Request Action template
   description: scaffolder v1beta3 template demo publishing to PR on existing git repository
+  annotations:
+    backstage.io/techdocs-ref: dir:.
 spec:
   owner: backstage/techdocs-core
   type: service
